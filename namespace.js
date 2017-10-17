@@ -19,8 +19,8 @@ var CURR0250 = {
 
         function clickMe(ev) {
 
-                this.style.backgroundColor = "#d742f4";
-                this.style.borderColor = "#41a0f4";
+                this.style.backgroundColor = "#D742F4";
+                this.style.borderColor = "#41A0F4";
             }
 
         }
