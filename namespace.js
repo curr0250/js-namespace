@@ -13,11 +13,11 @@ var CURR0250 = {
         div.addEventListener("mouseover", hover);
         div.addEventListener("mouseout", hover);
 
-        function hoverMe(ev) {
+        function hover(ev) {
             this.classList.toggle("highlight");
         }
 
-        function clickMe(ev) {
+        function click(ev) {
 
                 this.style.backgroundColor = "#D742F4";
                 this.style.borderColor = "#41A0F4";
